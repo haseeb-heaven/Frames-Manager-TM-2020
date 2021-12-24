@@ -1,5 +1,6 @@
 # Frames-Manager
 Frames manager is Plugin to manage Game frames for [Trackmania 2020](https://www.trackmania.com/) .
+![](https://github.com/haseeb-heaven/Frames-Manager-TM-2020/blob/main/resources/FPS-Manager-UI.png)
 
 ## Frames Manager Details
 Frames manager is plugin to manage Game frames it supports managing Average Frames and Target Frames till now,
@@ -16,7 +17,7 @@ This file is also available on [Openplanet](https://openplanet.nl/files/157)
 - [NanoVG](https://openplanet.nl/docs/group/NanoVG) - Frames Text information w/o background.
 
 
-## Features:
+## Features
 - Manage Average/Target FPS.
 - Option for In-game FPS Only.
 - Performance indicator.
@@ -25,9 +26,17 @@ This file is also available on [Openplanet](https://openplanet.nl/files/157)
 - Multiple UI to display Frames. ([ImGui](https://openplanet.nl/docs/group/UI)/[NanoVG](https://openplanet.nl/docs/group/NanoVG)).
 - Game mode option.
 
+## Settings
+You can cutomize settings of Frames manager like position/color/hotkeys etc.
+![](https://github.com/haseeb-heaven/Frames-Manager-TM-2020/blob/main/resources/FPS-Manager-UI-Settings.png)
 
 ## Next Update - TODO-LIST.
 - Add support for TM Turbo,Maniaplanet.
 - Improve in-game checking methods.
 - More Customization on Frames Text.
 - Game round FPS option.
+
+## CHANGELOGS
+- Added Frames Manager.
+- Added new Text UI Option.
+- Added new Hotkeys section.
